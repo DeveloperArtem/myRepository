@@ -1,0 +1,8 @@
+1) git remote add origin https://github.com/DeveloperArtem/myRepository
+   git push -u (-f) origin master
+
+2) git init  ---->  create repository
+
+3) git add <file>, git status
+
+4) git commit -m "<message>"
